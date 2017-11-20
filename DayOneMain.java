@@ -11,7 +11,7 @@ public class DayOneMain {
 	// Scanner borFargh = new Scanner(System.in);
 		char theBestLetter='C';
 		System.out.println("Hallo Worrrod");
-		System.out.println("i am bad");
+		System.out.println("i am not bad");
 		System.out.println("Years in Pointwest " + yearInPTC);
 		System.out.println("Do I have a pickle? "+ iHaveAPickle);
 		System.out.println("Distance to your Heart "+distanceToYourHeart);
